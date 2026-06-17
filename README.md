@@ -1,7 +1,7 @@
 # FVCOM 5.0.1
 
-FVCOM Website: http://fvcom.smast.umassd.edu/
-FVCOM Source Code: https://github.com/FVCOM-GitHub/FVCOM
+* FVCOM Website: http://fvcom.smast.umassd.edu/
+* FVCOM Source Code: https://github.com/FVCOM-GitHub/FVCOM
 
 
 
